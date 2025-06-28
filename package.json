@@ -1,0 +1,15 @@
+{
+  "name": "ytclients-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ytclients.js",
+  "repository": "https://github.com/ftde0/ytclients.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node ytclients.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
